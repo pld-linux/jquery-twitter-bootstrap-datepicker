@@ -2,7 +2,7 @@
 Summary:	Bootstrap - front-end framework for faster and easier web development
 Name:		jquery-twitter-bootstrap-%{plugin}
 Version:	2.3.1
-Release:	1
+Release:	2
 License:	Apache License v2.0
 Group:		Applications/WWW
 Source0:	http://www.eyecon.ro/bootstrap-datepicker/datepicker.zip
